@@ -1,7 +1,7 @@
 {
   "gyms":[
     {
-      "name": "Vanguard Gym",
+      "gymName": "Vanguard Gym",
       "description": "Vanguard Gym is the most complete Manassas martial arts location. Choose from Brazilian Jiu Jitsu BJJ, Submission Grappling, Thai Boxing, CrossFit or Kids Martial Arts.",
       "specialty": "Muay Thai, BJJ, Grappling",
       "gymImage": "vanguardmatts.jpg",
