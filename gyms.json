@@ -11,64 +11,64 @@
       "gymSite": "https://www.vanguardgym.com"
     },
     {
-        "gymName" = "Premier Martial Arts",
-        "description" = "Premier Martial Arts has been in business for more than 20 years, and since our founding in 1998 we have helped thousands of students of all ages realize their full potential. Premier Martial Arts delivers a best-in-class martial arts experience that helps our students develop the personal skills that are necessary to build a successful life. Our mastery of teaching martial arts over the past two decades is evident in our structured and thorough curriculum, which is standardized across our 100+ locations across the United States, Canada and England.",
-        "specialty" = "Kickboxing, Krav Maga, Karate",
-        "gymImage" = "premiergroup.jpg",
-        "gymLogo" = "premierlogo.png",
-        "gymState" = "Virginia",
-        "gymCity" = "Manassas",
-        "gymSite" = "https://premiermartialarts.com"
+        "gymName": "Premier Martial Arts",
+        "description": "Premier Martial Arts has been in business for more than 20 years, and since our founding in 1998 we have helped thousands of students of all ages realize their full potential. Premier Martial Arts delivers a best-in-class martial arts experience that helps our students develop the personal skills that are necessary to build a successful life. Our mastery of teaching martial arts over the past two decades is evident in our structured and thorough curriculum, which is standardized across our 100+ locations across the United States, Canada and England.",
+        "specialty": "Kickboxing, Krav Maga, Karate",
+        "gymImage": "premiergroup.jpg",
+        "gymLogo": "premierlogo.png",
+        "gymState": "Virginia",
+        "gymCity": "Manassas",
+        "gymSite": "https://premiermartialarts.com"
     },
     {
-        "gymName" = "Relentless MMA & Fitness",
-        "description" = "Relentless MMA of Fairfax is a Mixed Martial Arts (MMA) and Fitness Center that facilitates intelligent, intense, fun, and safe training for men, women, and children.  Members will be consistently challenged in an environment that will bring out their personal best regardless of ability, skill level, or past experience.  Take your workout, your training, your body, and your life to the next level in a fun friendly environment.  We focus not only developing you as a athlete, but as a fighter who can defend yourself. and as a human being . Come join us and have one of the best times of your life at Relentless MMA.",
-        "specialty" = "Savate Kickboxing, Wrestling, Muay Thai",
-        "gymImage" = "relentlessmatt.jpg",
-        "gymLogo" = "RelentlessMMA.png",
-        "gymState" = "Virginia",
-        "gymCity" = "Fairfax",
-        "gymSite" = "https://www.relentlessmmagym.com"
+        "gymName": "Relentless MMA & Fitness",
+        "description": "Relentless MMA of Fairfax is a Mixed Martial Arts (MMA) and Fitness Center that facilitates intelligent, intense, fun, and safe training for men, women, and children.  Members will be consistently challenged in an environment that will bring out their personal best regardless of ability, skill level, or past experience.  Take your workout, your training, your body, and your life to the next level in a fun friendly environment.  We focus not only developing you as a athlete, but as a fighter who can defend yourself. and as a human being . Come join us and have one of the best times of your life at Relentless MMA.",
+        "specialty": "Savate Kickboxing, Wrestling, Muay Thai",
+        "gymImage": "relentlessmatt.jpg",
+        "gymLogo": "RelentlessMMA.png",
+        "gymState": "Virginia",
+        "gymCity": "Fairfax",
+        "gymSite": "https://www.relentlessmmagym.com"
     },
     {
-        "gymName" = "Dominion BJJ",
-        "description" = "Dominion BJJ is one of the top training academies in Northern Virginia. We offer detailed, technical instruction, taught through a unique system. A system designed to accelerate practical learning and proficiency.Our gym is staffed by experienced experts who will provide you with the knowledge, the training, and the techniques that will guide you and motivate you to achieve your goals. We have a complete selection of training programs to meet your needs whether your goal is to be a Mixed Martial Arts competitor or if you want to just train like one.",
-        "specialty" = "BJJ, Judo, Muay Thai",
-        "gymImage" = "Dominionmatts.jpg",
-        "gymLogo" = "dominionBjj.png",
-        "gymState" = "Virginia",
-        "gymCity" = "Fairfax",
-        "gymSite" = "https://dominionbjj.com"
+        "gymName": "Dominion BJJ",
+        "description": "Dominion BJJ is one of the top training academies in Northern Virginia. We offer detailed, technical instruction, taught through a unique system. A system designed to accelerate practical learning and proficiency.Our gym is staffed by experienced experts who will provide you with the knowledge, the training, and the techniques that will guide you and motivate you to achieve your goals. We have a complete selection of training programs to meet your needs whether your goal is to be a Mixed Martial Arts competitor or if you want to just train like one.",
+        "specialty": "BJJ, Judo, Muay Thai",
+        "gymImage": "Dominionmatts.jpg",
+        "gymLogo": "dominionBjj.png",
+        "gymState": "Virginia",
+        "gymCity": "Fairfax",
+        "gymSite": "https://dominionbjj.com"
     },
     {
-        "gymName" = "Fairfax Jiu Jitsu Academy",
-        "description" = "We are no ordinary martial arts school. Since 2007, Fairfax Jiu Jitsu Academy in Chantilly has offered the highest level of instruction in Brazilian Jiu Jitsu (BJJ), Mixed Martial Arts (MMA), Muay Thai and Capoeira in Northern Virginia. Internationally recognized, full-time Brazilian Jiu Jitsu Black Belts and professional coaches with over 100 years of combined experience oversee every aspect of your development and help you achieve your goals. FJJ students come from all over the area including Fairfax, Herndon, Manassas, Vienna, Sterling, Ashburn, Centreville, Oakton, Reston, and Loudoun County. Join us today!",
-        "specialty" = "BJJ, Capoeira, Muay Thai",
-        "gymImage" = "fjjabuilding.jpg",
-        "gymLogo" = "FairfaxJiuJitsu.png",
-        "gymState" = "Virginia",
-        "gymCity" = "Fairfax",
-        "gymSite" = "http://www.fairfaxjj.com"
+        "gymName": "Fairfax Jiu Jitsu Academy",
+        "description": "We are no ordinary martial arts school. Since 2007, Fairfax Jiu Jitsu Academy in Chantilly has offered the highest level of instruction in Brazilian Jiu Jitsu (BJJ), Mixed Martial Arts (MMA), Muay Thai and Capoeira in Northern Virginia. Internationally recognized, full-time Brazilian Jiu Jitsu Black Belts and professional coaches with over 100 years of combined experience oversee every aspect of your development and help you achieve your goals. FJJ students come from all over the area including Fairfax, Herndon, Manassas, Vienna, Sterling, Ashburn, Centreville, Oakton, Reston, and Loudoun County. Join us today!",
+        "specialty": "BJJ, Capoeira, Muay Thai",
+        "gymImage": "fjjabuilding.jpg",
+        "gymLogo": "FairfaxJiuJitsu.png",
+        "gymState": "Virginia",
+        "gymCity": "Fairfax",
+        "gymSite": "http://www.fairfaxjj.com"
     },
     {
-        "gymName" = "Trident Academy Martial Arts",
-        "description" = "We believe in the primary importance of practical self-defense skills that you can easily absorb and use immediately.  We commit to developing confidence and balance, functional strength and a high level of fitness for our students.  Each martial arts class is for everybody, mixed levels of skill and ability levels. This allows each of our students to work on their goals while helping other along the path.",
-        "specialty" = "Striking, Grappling, Weapons Handling",
-        "gymImage" = "tridentgroup.jpg",
-        "gymLogo" = "trident.png",
-        "gymState" = "Virginia",
-        "gymCity" = "Fairfax",
-        "gymSite" = "http://www.tridentmartialarts.com"
+        "gymName": "Trident Academy Martial Arts",
+        "description": "We believe in the primary importance of practical self-defense skills that you can easily absorb and use immediately.  We commit to developing confidence and balance, functional strength and a high level of fitness for our students.  Each martial arts class is for everybody, mixed levels of skill and ability levels. This allows each of our students to work on their goals while helping other along the path.",
+        "specialty": "Striking, Grappling, Weapons Handling",
+        "gymImage": "tridentgroup.jpg",
+        "gymLogo": "trident.png",
+        "gymState": "Virginia",
+        "gymCity": "Fairfax",
+        "gymSite": "http://www.tridentmartialarts.com"
     },
     {
-       "gymName" = "Kaizen MMA Fairfax",
-        "description" = "The Japanese word “kaizen” is derived from “kai,” meaning simply “the action to correct or change for the better,” and “zen,” meaning “good” or “benefit.” Kaizen refers to any continuous effort, no matter the size of the effort, on a daily basis to make an improvement in the system as a whole. Kaizen is a daily activity, the purpose of which goes beyond a simple improvement in productivity; small changes in every session will result in extraordinary improvement over the long run. Whether you want to get in shape, learn self defense, or fight professionally, we will cater your experience to your needs.",
-        "specialty" = "BJJ, Boxing, Muay Thai, Wrestling",
-        "gymImage" = "kaizenmats.jpg",
-        "gymLogo" = "kaizen.png",
-        "gymState" = "Virginia",
-        "gymCity" = "Fairfax",
-        "gymSite" = "https://kzmma.com"
+       "gymName": "Kaizen MMA Fairfax",
+        "description": "The Japanese word “kaizen” is derived from “kai,” meaning simply “the action to correct or change for the better,” and “zen,” meaning “good” or “benefit.” Kaizen refers to any continuous effort, no matter the size of the effort, on a daily basis to make an improvement in the system as a whole. Kaizen is a daily activity, the purpose of which goes beyond a simple improvement in productivity; small changes in every session will result in extraordinary improvement over the long run. Whether you want to get in shape, learn self defense, or fight professionally, we will cater your experience to your needs.",
+        "specialty": "BJJ, Boxing, Muay Thai, Wrestling",
+        "gymImage": "kaizenmats.jpg",
+        "gymLogo": "kaizen.png",
+        "gymState": "Virginia",
+        "gymCity": "Fairfax",
+        "gymSite": "https://kzmma.com"
     }
   ],
   "status": "OK"
