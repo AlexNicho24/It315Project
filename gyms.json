@@ -9,6 +9,7 @@
       "gymState": "Virginia",
       "gymCity": "Manassas",
       "gymSite": "https://www.vanguardgym.com",
+      "gymvideo": "https://www.youtube.com/watch?v=t0KYszvpNx8",
       "gymMap": "https://www.google.com/maps/place/Vanguard+Gym/@38.75117,-77.491651,17z/data=!3m1!4b1!4m5!3m4!1s0x89b65c6b14b365cf:0x737894bbef38d25d!8m2!3d38.75117!4d-77.489457"
     },
     {
@@ -20,6 +21,7 @@
         "gymState": "Virginia",
         "gymCity": "Manassas",
         "gymSite": "https://premiermartialarts.com",
+        "gymvideo": "https://www.youtube.com/watch?v=H1p_ce-XNKY",
         "gymMap":  "https://www.google.com/maps/place/Premier+Martial+Arts/@38.7568115,-77.4667578,17.25z/data=!3m1!5s0x89b65b88e9201317:0x4da4c8fb96b47663!4m5!3m4!1s0x89b65b88e323f74d:0x56e8c5b2b0697ade!8m2!3d38.7565012!4d-77.4662961"
     },
     {
@@ -31,6 +33,7 @@
         "gymState": "Virginia",
         "gymCity": "Fairfax",
         "gymSite": "https://www.relentlessmmagym.com",
+        "gymvideo": "https://www.youtube.com/watch?v=bNl87mt7_SI",
         "gymMap": "https://www.google.com/maps/place/Relentless+MMA+%26+Fitness/@38.8482649,-77.3118179,18z/data=!4m5!3m4!1s0x89b646a6ed0d2fe3:0x6c17c7577556a070!8m2!3d38.8482999!4d-77.3116815"
     },
     {
@@ -42,6 +45,7 @@
         "gymState": "Virginia",
         "gymCity": "Manassas",
         "gymSite": "https://dominionbjj.com",
+        "gymvideo": "https://www.youtube.com/watch?v=74U1v2WeUTs",
         "gymMap":  "https://www.google.com/maps/place/Dominion+BJJ/@38.7831156,-77.5592264,17z/data=!4m5!3m4!1s0x89b65cfbf1b10edd:0x5f608eed1028bc3d!8m2!3d38.7830023!4d-77.5581369"
     },
     {
@@ -53,6 +57,7 @@
         "gymState": "Virginia",
         "gymCity": "Fairfax",
         "gymSite": "http://www.fairfaxjj.com",
+        "gymvideo": "https://www.youtube.com/watch?v=zFakQNe5YdU",
         "gymMap": "https://www.google.com/maps/place/Fairfax+Jiu+Jitsu+Academy/@38.8839116,-77.4363863,17z/data=!4m5!3m4!1s0x89b6464812d74759:0x84653b20c47cd1db!8m2!3d38.883327!4d-77.435705"
     },
     {
@@ -64,6 +69,7 @@
         "gymState": "Virginia",
         "gymCity": "Woodbridge",
         "gymSite": "http://www.tridentmartialarts.com",
+        "gymvideo": "https://www.youtube.com/watch?v=Fne8Uk1ZUGA",
         "gymMap": "https://www.google.com/maps/place/Trident+Academy+of+Martial+Arts/@38.649514,-77.309685,17z/data=!3m1!4b1!4m5!3m4!1s0x89b65610ff399467:0x4cfa83bc8a9bbb00!8m2!3d38.649514!4d-77.307491"
     },
     {
@@ -75,6 +81,7 @@
         "gymState": "Virginia",
         "gymCity": "Fairfax",
         "gymSite": "https://kzmma.com",
+        "gymvideo": "https://www.youtube.com/watch?v=IfRVUX_S3oc",
         "gymMap": "https://www.google.com/maps/place/Kaizen+MMA+Fairfax/@38.865338,-77.276012,17.75z/data=!4m5!3m4!1s0x89b64c0f268d3785:0xe06c8f7fc439a228!8m2!3d38.8653308!4d-77.2753859"
     }
   ],
